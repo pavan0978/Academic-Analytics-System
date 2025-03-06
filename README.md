@@ -17,7 +17,7 @@ This system helps universities analyze academic data, providing administrators w
 - Software Architecture Models:** Data-Centered, Data-Flow, Call/Return, Peer-to-Peer, Layered  
 
 ## 📄 Project Files    
-- 📂
+- 📂 https://github.com/pavan0978/Academic-Analytics-System/blob/main/FSE%20Project.pdf 
 
 ## 🚀 Getting Started  
 To explore and use this system, follow these steps:  
