@@ -17,7 +17,7 @@ This system helps universities analyze academic data, providing administrators w
 - Software Architecture Models:** Data-Centered, Data-Flow, Call/Return, Peer-to-Peer, Layered  
 
 ## 📄 Project Files  
-- 📂 [Final Project Presentation]
+- 📂 [Final Project Presentation
 
 ## 🚀 Getting Started  
 To explore and use this system, follow these steps:  
