@@ -1,6 +1,6 @@
 # 🎓 Academic Analytics System 📊  
 
-An academic analytics system designed for larger universities to enhance decision-making in faculty hiring, student performance tracking, and resource allocation using **data-driven insights**.
+An academic analytics system designed for larger universities to enhance decision-making in faculty hiring, student performance tracking, and resource allocation using data-driven insights.
 
 ## 📌 Project Overview  
 This system helps universities analyze academic data, providing administrators with actionable insights to improve faculty hiring, course planning, and resource distribution. It was built using multiple SDLC models and software architectural designs** to ensure scalability and efficiency.
